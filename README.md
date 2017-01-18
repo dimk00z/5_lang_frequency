@@ -4,6 +4,7 @@
 
 Для запуска в консоли:
 $ python lang_frequency.py <path to txt_file>
+
 Пример использования:
 ```
 python lang_frequency.py Война_и_мир1.txt
