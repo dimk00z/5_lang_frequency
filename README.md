@@ -4,7 +4,7 @@
 Для поиска слов вы можете испоьзовать любой текст, например сгенеровать с помощью этого сайта http://fishtext.ru/index.php.
 
 Для запуска в консоли:
-$ python lang_frequency.py <path to txt_file>
+$ python lang_frequency.py text_file1.txt ...
 
 Пример использования:
 ```
